@@ -1,0 +1,2502 @@
+[
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "How far is it from Denver to Aspen ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What county is Modesto , California in ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "desc",
+        "Question": "Who was Galileo ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is an atom ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When did Hawaii become a state ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "How tall is the Sears Building ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "gr",
+        "Question": "George Bush purchased a small interest in which baseball team ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "plant",
+        "Question": "What is Australia 's national flower ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "reason",
+        "Question": "Why does the moon turn orange ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is autism ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What city had a world fair in 1900 ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "What person 's head is on a dime ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "weight",
+        "Question": "What is the average weight of a Yellow Labrador ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first man to fly across the Pacific Ocean ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When did Idaho become a state ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "other",
+        "Question": "What is the life expectancy for crickets ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What metal has the highest melting point ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who developed the vaccination against polio ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is epilepsy ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year did the Titanic sink ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first American to walk in space ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is a biosphere ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What river in the US is known as the Big Muddy ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is bipolar disorder ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is cholesterol ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who developed the Macintosh computer ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is caffeine ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What imaginary line is halfway between the North and South Poles ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is John Wayne airport ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What hemisphere is the Philippines in ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "speed",
+        "Question": "What is the average speed of the horses at the Kentucky Derby ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "mount",
+        "Question": "Where are the Rocky Mountains ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are invertebrates ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "temp",
+        "Question": "What is the temperature at the center of the earth ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When did John F. Kennedy get elected as President ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "period",
+        "Question": "How old was Elvis Presley when he died ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the Orinoco River ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "How far is the service line from the net in tennis ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "count",
+        "Question": "How much fiber should you have per day ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "count",
+        "Question": "How many Great Lakes are there ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "plant",
+        "Question": "Material called linen is made from what plant ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is Teflon ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is amitriptyline ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is a shaman ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What is the proper name for a female walrus ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What is a group of turkeys called ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "period",
+        "Question": "How long did Rip Van Winkle sleep ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are triglycerides ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "count",
+        "Question": "How many liters in a gallon ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "gr",
+        "Question": "What is the name of the chocolate company in San Francisco ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are amphibians ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who discovered x-rays ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Which comedian 's signature line is `` Can we talk '' ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is fibromyalgia ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "desc",
+        "Question": "What is done with worn or outdated flags ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What does cc in engines mean ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When did Elvis Presley die ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What is the capital of Yugoslavia ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "Where is Milan ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "speed",
+        "Question": "What is the speed hummingbirds fly ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What is the oldest city in the United States ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "What was W.C. Fields ' real name ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What river flows between Fargo , North Dakota and Moorhead , Minnesota ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "food",
+        "Question": "What do bats eat ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "state",
+        "Question": "What state did the Battle of Bighorn take place in ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "desc",
+        "Question": "Who was Abraham Lincoln ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "termeq",
+        "Question": "What do you call a newborn kangaroo ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are spider veins ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What day and month did John Lennon die ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What strait separates North America from Asia ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "other",
+        "Question": "What is the population of Seattle ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "money",
+        "Question": "How much was a ticket for the Titanic ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What is the largest city in the world ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "What American composer wrote the music for `` West Side Story '' ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the Mall of the America ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is the pH scale ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "currency",
+        "Question": "What type of currency is used in Australia ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "How tall is the Gateway Arch in St. Louis , MO ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "weight",
+        "Question": "How much does the human adult female brain weigh ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first governor of Alaska ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is a prism ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was the first liver transplant ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was elected president of South Africa in 1994 ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "other",
+        "Question": "What is the population of China ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was Rosa Parks born ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "reason",
+        "Question": "Why is a ladybug helpful ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is amoxicillin ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first female United States Representative ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are xerophytes ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "country",
+        "Question": "What country did Ponce de Leon come from ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "event",
+        "Question": "The U.S. Department of Treasury first issued paper currency for the U.S. during which war ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is desktop publishing ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "temp",
+        "Question": "What is the temperature of the sun 's surface ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year did Canada join the United Nations ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "gr",
+        "Question": "What is the oldest university in the US ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is Prince Edward Island ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "Mercury , what year was it discovered ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is cryogenics ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are coral reefs ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "other",
+        "Question": "What is the longest major league baseball-winning streak ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is neurology ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who invented the calculator ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "manner",
+        "Question": "How do you measure earthquakes ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "desc",
+        "Question": "Who is Duke Ellington ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What county is Phoenix , AZ in ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is a micron ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "temp",
+        "Question": "The sun 's core , what is the temperature ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What is the Ohio state bird ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When were William Shakespeare 's twins born ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What is the highest dam in the U.S. ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "color",
+        "Question": "What color is a poison arrow frog ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is acupuncture ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "What is the length of the coastline of the state of Alaska ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "What is the name of Neil Armstrong 's wife ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "plant",
+        "Question": "What is Hawaii 's state flower ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who won Ms. American in 1989 ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When did the Hindenberg crash ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What mineral helps prevent osteoporosis ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What was the last year that the Chicago Cubs won the World Series ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is Perth ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year did WWII begin ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "What is the diameter of a golf ball ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is an eclipse ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who discovered America ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "What is the earth 's diameter ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Which president was unmarried ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "How wide is the Milky Way galaxy ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "During which season do most thunderstorms occur ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is Wimbledon ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "period",
+        "Question": "What is the gestation period for a cat ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "How far is a nautical mile ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What does target heart rate mean ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "product",
+        "Question": "What was the first satellite to go into space ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is foreclosure ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "other",
+        "Question": "What is the major fault line near Kentucky ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the Holland Tunnel ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who wrote the hymn `` Amazing Grace '' ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "title",
+        "Question": "What position did Willie Davis play in baseball ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are platelets ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is severance pay ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What is the name of Roy Roger 's dog ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where are the National Archives ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What is a baby turkey called ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is poliomyelitis ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "body",
+        "Question": "What is the longest bone in the human body ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who is a German philosopher ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "veh",
+        "Question": "What were Christopher Columbus ' three ships ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What does Phi Beta Kappa mean ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is nicotine ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "termeq",
+        "Question": "What is another name for vitamin B1 ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who discovered radium ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are sunspots ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was Algeria colonized ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "gr",
+        "Question": "What baseball team was the first to make numbers part of their uniform ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What continent is Egypt on ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What is the capital of Mongolia ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is nanotechnology ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "In the late 1700 's British convicts were used to populate which colony ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "state",
+        "Question": "What state is the geographic center of the lower 48 states ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is an obtuse angle ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are polymers ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When is hurricane season in the Caribbean ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the volcano Mauna Loa ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "termeq",
+        "Question": "What is another astronomic term for the Northern Lights ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What peninsula is Spain part of ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was Lyndon B. Johnson born ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is acetaminophen ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "state",
+        "Question": "What state has the least amount of rain per year ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who founded American Red Cross ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year did the Milwaukee Braves become the Atlanta Braves ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "speed",
+        "Question": "How fast is alcohol absorbed ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When is the summer solstice ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is supernova ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the Shawnee National Forest ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "state",
+        "Question": "What U.S. state 's motto is `` Live free or Die '' ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the Lourve ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was the first stamp issued ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "color",
+        "Question": "What primary colors do you mix to make orange ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "How far is Pluto from the sun ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What body of water are the Canary Islands in ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is neuropathy ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the Euphrates River ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is cryptography ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What is natural gas composed of ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who is the Prime Minister of Canada ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "What French ruler was defeated at the battle of Waterloo ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is leukemia ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where did Howard Hughes die ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What is the birthstone for June ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "other",
+        "Question": "What is the sales tax in Minnesota ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "What is the distance in miles from the earth to the sun ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "period",
+        "Question": "What is the average life span for a chicken ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was the first Wal-Mart store opened ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is relative humidity ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What city has the zip code of 35824 ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "currency",
+        "Question": "What currency is used in Algeria ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who invented the hula hoop ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "product",
+        "Question": "What was the most popular toy in 1957 ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What is pastrami made of ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "product",
+        "Question": "What is the name of the satellite that the Soviet Union sent into space in 1957 ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What city 's newspaper is called `` The Enquirer '' ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who invented the slinky ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What are the animals that don 't have backbones called ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "other",
+        "Question": "What is the melting point of copper ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the volcano Olympus Mons located ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the 23rd president of the United States ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "temp",
+        "Question": "What is the average body temperature ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "desc",
+        "Question": "What does a defibrillator do ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "desc",
+        "Question": "What is the effect of acid rain ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year did the United States abolish the draft ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "speed",
+        "Question": "How fast is the speed of light ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "state",
+        "Question": "What province is Montreal in ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What New York City structure is also known as the Twin Towers ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is fungus ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "lang",
+        "Question": "What is the most frequently spoken language in the Netherlands ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is sodium chloride ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "termeq",
+        "Question": "What are the spots on dominoes called ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "count",
+        "Question": "How many pounds in a ton ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is influenza ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is ozone depletion ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year was the Mona Lisa painted ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What does `` Sitting Shiva '' mean ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "other",
+        "Question": "What is the electrical output in Madrid , Spain ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "mount",
+        "Question": "Which mountain range in North America stretches from Maine to Georgia ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What is plastic made of ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "other",
+        "Question": "What is the population of Nigeria ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "desc",
+        "Question": "What does your spleen do ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the Grand Canyon ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who invented the telephone ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year did the U.S. buy Alaska ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "What is the name of the leader of Ireland ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is phenylalanine ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "count",
+        "Question": "How many gallons of water are there in a cubic foot ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "other",
+        "Question": "What are the two houses of the Legislative branch ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is sonar ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "In Poland , where do most people live ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is phosphorus ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What is the location of the Sea of Tranquility ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "speed",
+        "Question": "How fast is sound ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "state",
+        "Question": "What French province is cognac produced in ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is Valentine 's Day ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "reason",
+        "Question": "What causes gray hair ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is hypertension ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is bandwidth ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What is the longest suspension bridge in the U.S. ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is a parasite ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is home equity ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "desc",
+        "Question": "What do meteorologists do ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "other",
+        "Question": "What is the criterion for being legally blind ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who is the tallest man in the world ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What are the twin cities ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "other",
+        "Question": "What did Edward Binney and Howard Smith invent in 1903 ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What is the statue of liberty made of ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is pilates ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What planet is known as the `` red '' planet ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "What is the depth of the Nile river ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "termeq",
+        "Question": "What is the colorful Korean traditional dress called ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is Mardi Gras ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "money",
+        "Question": "Mexican pesos are worth what in U.S. dollars ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first African American to play for the Brooklyn Dodgers ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first Prime Minister of Canada ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "count",
+        "Question": "How many Admirals are there in the U.S. Navy ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "instru",
+        "Question": "What instrument did Glenn Miller play ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "period",
+        "Question": "How old was Joan of Arc when she died ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What does the word fortnight mean ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is dianetics ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What is the capital of Ethiopia ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "period",
+        "Question": "For how long is an elephant pregnant ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "manner",
+        "Question": "How did Janice Joplin die ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "lang",
+        "Question": "What is the primary language in Iceland ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "desc",
+        "Question": "What is the difference between AM radio stations and FM radio stations ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is osteoporosis ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first woman governor in the U.S. ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is peyote ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "reason",
+        "Question": "What is the esophagus used for ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is viscosity ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year did Oklahoma become a state ? "
+    },
+    {
+        "Class": "ABBR",
+        "Context": "abb",
+        "Question": "What is the abbreviation for Texas ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What is a mirror made out of ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where on the body is a mortarboard worn ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "What was J.F.K. 's wife 's name ? "
+    },
+    {
+        "Class": "ABBR",
+        "Context": "exp",
+        "Question": "What does I.V. stand for ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is the chunnel ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is Hitler buried ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are antacids ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is pulmonary fibrosis ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are Quaaludes ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is naproxen ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is strep throat ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What is the largest city in the U.S. ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "dismed",
+        "Question": "What is foot and mouth disease ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "other",
+        "Question": "What is the life expectancy of a dollar bill ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "termeq",
+        "Question": "What do you call a professional map drawer ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are Aborigines ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is hybridization ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "color",
+        "Question": "What color is indigo ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "period",
+        "Question": "How old do you have to be in order to rent a car in Italy ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "other",
+        "Question": "What does a barometer measure ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "color",
+        "Question": "What color is a giraffe 's tongue ? "
+    },
+    {
+        "Class": "ABBR",
+        "Context": "exp",
+        "Question": "What does USPS stand for ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year did the NFL go on strike ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is solar wind ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What date did Neil Armstrong land on the moon ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was Hiroshima bombed ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the Savannah River ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first woman killed in the Vietnam War ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What planet has the strongest magnetic field of all the planets ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who is the governor of Alaska ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year did Mussolini seize power in Italy ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What is the capital of Persia ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the Eiffel Tower ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "count",
+        "Question": "How many hearts does an octopus have ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is pneumonia ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What is the deepest lake in the US ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is a fuel cell ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first U.S. president to appear on TV ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the Little League Museum ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "other",
+        "Question": "What are the two types of twins ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What is the brightest star ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is diabetes ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was President Kennedy shot ? "
+    },
+    {
+        "Class": "ABBR",
+        "Context": "exp",
+        "Question": "What is TMJ ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "color",
+        "Question": "What color is yak milk ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What date was Dwight D. Eisenhower born ? "
+    },
+    {
+        "Class": "ABBR",
+        "Context": "exp",
+        "Question": "What does the technical term ISDN mean ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "reason",
+        "Question": "Why is the sun yellow ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "money",
+        "Question": "What is the conversion rate between dollars and pounds ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was Abraham Lincoln born ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is the Milky Way ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is mold ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year was Mozart born ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What is a group of frogs called ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "veh",
+        "Question": "What is the name of William Penn 's ship ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "other",
+        "Question": "What is the melting point of gold ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What is the street address of the White House ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is semolina ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "food",
+        "Question": "What fruit is Melba sauce made from ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is Ursa Major ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "perc",
+        "Question": "What is the percentage of water content in the human body ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "weight",
+        "Question": "How much does water weigh ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "event",
+        "Question": "What was President Lyndon Johnson 's reform program called ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "perc",
+        "Question": "What is the murder rate in Windsor , Ontario ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who is the only president to serve 2 non-consecutive terms ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "other",
+        "Question": "What is the population of Australia ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who painted the ceiling of the Sistine Chapel ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "dismed",
+        "Question": "Name a stimulant . "
+    },
+    {
+        "Class": "DESC",
+        "Context": "desc",
+        "Question": "What is the effect of volcanoes on the climate ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year did the Andy Griffith show begin ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is acid rain ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What is the date of Mexico 's independence ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What is the location of Lake Champlain ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "plant",
+        "Question": "What is the Illinois state flower ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What is Maryland 's state bird ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is quicksilver ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who wrote `` The Divine Comedy '' ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "speed",
+        "Question": "What is the speed of light ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "What is the width of a football field ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "reason",
+        "Question": "Why in tennis are zero points called love ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What kind of dog was Toto in the Wizard of Oz ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is a thyroid ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What does ciao mean ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "body",
+        "Question": "What is the only artery that carries blue blood from the heart to the lungs ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "other",
+        "Question": "How often does Old Faithful erupt at Yellowstone National Park ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is acetic acid ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "What is the elevation of St. Louis , MO ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "color",
+        "Question": "What color does litmus paper turn when it comes into contact with a strong acid ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "color",
+        "Question": "What are the colors of the German flag ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is the Moulin Rouge ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What soviet seaport is on the Black Sea ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "weight",
+        "Question": "What is the atomic weight of silver ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "currency",
+        "Question": "What currency do they use in Brazil ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are pathogens ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is mad cow disease ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "food",
+        "Question": "Name a food high in zinc . "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When did North Carolina enter the union ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where do apple snails live ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are ethics ? "
+    },
+    {
+        "Class": "ABBR",
+        "Context": "exp",
+        "Question": "What does CPR stand for ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is an annuity ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who killed John F. Kennedy ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first vice president of the U.S. ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What birthstone is turquoise ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first US President to ride in an automobile to his inauguration ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "period",
+        "Question": "How old was the youngest president of the United States ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was Ulysses S. Grant born ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is Muscular Dystrophy ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who lived in the Neuschwanstein castle ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is propylene glycol ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is a panic disorder ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who invented the instant Polaroid camera ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is a carcinogen ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What is a baby lion called ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "other",
+        "Question": "What is the world 's population ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is nepotism ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is die-casting ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is myopia ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "other",
+        "Question": "What is the sales tax rate in New York ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "perc",
+        "Question": "Developing nations comprise what percentage of the world 's population ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "mount",
+        "Question": "What is the fourth highest mountain in the world ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "What is Shakespeare 's nickname ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What is the heaviest naturally occurring element ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When is Father 's Day ? "
+    },
+    {
+        "Class": "ABBR",
+        "Context": "exp",
+        "Question": "What does the acronym NASA stand for ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "How long is the Columbia River in miles ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What city 's newspaper is called `` The Star '' ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is carbon dioxide ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the Mason/Dixon line ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was the Boston tea party ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is metabolism ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Which U.S.A. president appeared on `` Laugh-In '' ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What are cigarettes made of ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What is the capital of Zimbabwe ? "
+    },
+    {
+        "Class": "ABBR",
+        "Context": "exp",
+        "Question": "What does NASA stand for ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "plant",
+        "Question": "What is the state flower of Michigan ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are semiconductors ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is nuclear power ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is a tsunami ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who is the congressman from state of Texas on the armed forces committee ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was president in 1913 ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was the first kidney transplant ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What are Canada 's two territories ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "veh",
+        "Question": "What was the name of the plane Lindbergh flew solo across the Atlantic ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is genocide ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What continent is Argentina on ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "other",
+        "Question": "What monastery was raided by Vikings in the late eighth century ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is an earthquake ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where is the tallest roller coaster located ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are enzymes ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who discovered oxygen ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is bangers and mash ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What is the name given to the Tiger at Louisiana State University ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where are the British crown jewels kept ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first person to reach the North Pole ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is an ulcer ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is vertigo ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is the spirometer test ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When is the official first day of summer ? "
+    },
+    {
+        "Class": "ABBR",
+        "Context": "exp",
+        "Question": "What does the abbreviation SOS mean ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What is the smallest bird in Britain ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who invented Trivial Pursuit ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What gasses are in the troposphere ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "country",
+        "Question": "Which country has the most water pollution ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What is the scientific name for elephant ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who is the actress known for her role in the movie `` Gypsy '' ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What breed of hunting dog did the Beverly Hillbillies own ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What is the rainiest place on Earth ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the first African American to win the Nobel Prize in literature ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When is St. Patrick 's Day ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What was FDR 's dog 's name ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "color",
+        "Question": "What colors need to be mixed to get the color pink ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "sport",
+        "Question": "What is the most popular sport in Japan ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "food",
+        "Question": "What is the active ingredient in baking soda ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was Thomas Jefferson born ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "temp",
+        "Question": "How cold should a refrigerator be ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "When was the telephone invented ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "color",
+        "Question": "What is the most common eye color ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "Where was the first golf course in the United States ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is schizophrenia ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is angiotensin ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "gr",
+        "Question": "What did Jesse Jackson organize ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "animal",
+        "Question": "What is New York 's state bird ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What is the National Park in Utah ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What is Susan B. Anthony 's birthday ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "state",
+        "Question": "In which state would you find the Catskill Mountains ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "termeq",
+        "Question": "What do you call a word that is spelled the same backwards and forwards ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are pediatricians ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "gr",
+        "Question": "What chain store is headquartered in Bentonville , Arkansas ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are solar cells ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is compounded interest ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What are capers ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is an antigen ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "currency",
+        "Question": "What currency does Luxembourg use ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "other",
+        "Question": "What is the population of Venezuela ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "other",
+        "Question": "What type of polymer is used for bulletproof vests ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "currency",
+        "Question": "What currency does Argentina use ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is a thermometer ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What Canadian city has the largest population ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "color",
+        "Question": "What color are crickets ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "country",
+        "Question": "Which country gave New York the Statue of Liberty ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "product",
+        "Question": "What was the name of the first U.S. satellite sent into space ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What precious stone is a form of pure carbon ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What kind of gas is in a fluorescent bulb ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is rheumatoid arthritis ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "other",
+        "Question": "What river runs through Rowe , Italy ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is cerebral palsy ? "
+    },
+    {
+        "Class": "LOC",
+        "Context": "city",
+        "Question": "What city is also known as `` The Gateway to the West '' ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "dist",
+        "Question": "How far away is the moon ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "other",
+        "Question": "What is the source of natural gas ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "veh",
+        "Question": "In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is pectin ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is bio-diversity ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "techmeth",
+        "Question": "What 's the easiest way to remove wallpaper ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "date",
+        "Question": "What year did the Titanic start on its journey ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "count",
+        "Question": "How much of an apple is water ? "
+    },
+    {
+        "Class": "HUM",
+        "Context": "ind",
+        "Question": "Who was the 22nd President of the US ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "currency",
+        "Question": "What is the money they use in Zambia ? "
+    },
+    {
+        "Class": "NUM",
+        "Context": "count",
+        "Question": "How many feet in a mile ? "
+    },
+    {
+        "Class": "ENTY",
+        "Context": "substance",
+        "Question": "What is the birthstone of October ? "
+    },
+    {
+        "Class": "DESC",
+        "Context": "def",
+        "Question": "What is e-coli ? "
+    }
+]

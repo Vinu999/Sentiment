@@ -1,0 +1,25 @@
+{
+    "Class": "DESC",
+    "Context": "manner",
+    "Question": "How did serfdom develop in and then leave Russia ? "
+}
+{
+    "Class": "ENTY",
+    "Context": "cremat",
+    "Question": "What films featured the character Popeye Doyle ? "
+}
+{
+    "Class": "DESC",
+    "Context": "manner",
+    "Question": "How can I find a list of celebrities ' real names ? "
+}
+{
+    "Class": "ENTY",
+    "Context": "animal",
+    "Question": "What fowl grabs the spotlight after the Chinese Year of the Monkey ? "
+}
+{
+    "Class": "ABBR",
+    "Context": "exp",
+    "Question": "What is the full form of .com ? "
+}
